@@ -1,5 +1,6 @@
 # Arquivo e Pastas especificas
 index.php
+deploy.txt
 
 # Numerous always-ignore extensions
 *.diff
